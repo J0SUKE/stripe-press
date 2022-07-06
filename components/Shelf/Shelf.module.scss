@@ -1,0 +1,11 @@
+.shelf_container
+{
+    position: absolute;
+    top: -370vh;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 60%;    
+    min-width: 450px;
+    min-height: 850vh;
+    border: 1px solid white;
+}

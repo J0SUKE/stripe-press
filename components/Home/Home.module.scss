@@ -1,0 +1,21 @@
+.main{
+    overflow-y: scroll;
+    overflow-x: hidden;
+    background: #201819;
+    height: 100vh;    
+    position: relative;
+}
+
+.header
+{
+    color: white;
+    padding: 1.1rem calc(1.5rem + 55px);
+    h2{
+        font-size: 1.3rem;        
+        font-family: 'Gentium Book Plus';
+    }
+    h3{
+        font-style: italic;
+        font-family: 'Gentium Book Plus';
+    }
+}
